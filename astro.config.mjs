@@ -6,7 +6,8 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://kingman4.github.io/king-tech",
+  site: "https://kingman4.github.io",
+  base: "/king-tech",
   integrations: [mdx(), sitemap(), icon()],
   vite: {
     plugins: [tailwindcss()],
