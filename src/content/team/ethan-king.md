@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Robert Palmer"
-title: "Marketing Engineer"
+name: "Ethan King"
+title: "Product"
 avatar: {
     src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?&fit=crop&w=280",
-    alt: "Robert Palmer"
+    alt: "Ethan King"
 }
-publishDate: "2022-11-09 15:39"
+publishDate: "2025-11-21 00:00"
 ---
